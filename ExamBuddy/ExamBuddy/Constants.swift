@@ -8,5 +8,5 @@
 import Foundation
 
 struct Constants {
-    public static let DEFAULT_TIME: Int = 10 //60 * 5
+    public static let DEFAULT_TIME: Int = 60 * 5
 }
