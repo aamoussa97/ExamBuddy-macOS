@@ -8,7 +8,9 @@ ExamBuddy is a small lightweight utility for to aid in keeping track of time spe
 - MenuBar
   - Active/idle status with icon and text
   - Time remaining
-- Timer (Start-, stop- and reset timers)
+- Timer
+  - Start-, stop- and reset timers
+  - Loop
 - Notfications (Time elapsed)
 
 ## Roadmap
